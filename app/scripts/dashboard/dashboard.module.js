@@ -1,0 +1,1 @@
+angular.module('bamuiApp.dashboard', []);
